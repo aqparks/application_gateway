@@ -1,4 +1,4 @@
-class Blueprint:
+class Blueprint:  # pragma: no cover
 
     @staticmethod
     def run():

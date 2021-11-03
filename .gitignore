@@ -107,3 +107,6 @@ config.env
 *.csr
 *.key
 *.pem
+
+# coverage test results
+coverage_html_report/
